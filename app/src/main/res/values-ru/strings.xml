@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Foodee</string>
+    <string name="desc"><![CDATA[Tasty&Spicy 🌶🌶🌶]]></string>
+    <string name="welcome_back_pin" translatable="false">С возвращением, Пин!</string>
+    <string name="how_hungry">Насколько вы голодны?</string>
+    <string name="today_menu">Сегодняшнее меню</string>
+    <string name="offer">Лучшее предложение</string>
+</resources>

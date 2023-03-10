@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Foodee</string>
+    <string name="desc"><![CDATA[Tasty&Spicy 🌶🌶🌶]]></string>
+
+    <string name="welcome_back_pin" translatable="false">Welcome back, Pin!</string>
+    <string name="how_hungry">How Hungry are you?</string>
+    <string name="today_menu">Today’s Menu</string>
+    <string name="offer">Best Offer</string>
+</resources>
